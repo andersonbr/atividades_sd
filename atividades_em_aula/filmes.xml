@@ -1,0 +1,303 @@
+﻿<?xml version="1.0"?>
+<Filmes>
+    <Filme>
+        <ID>1</ID>
+        <Titulo>Vingadores 4</Titulo>
+        <Ano>2019</Ano>
+        <AvaliacaoIMDB>5</AvaliacaoIMDB>
+        <URL>http://filme.com/1</URL>
+        <Relacionados>
+            <Filme>
+                <ID>2</ID>
+                <Titulo>Capitão América - Guerra Cívil</Titulo>
+                <Ano>2016</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/2</URL>
+            </Filme>
+            <Filme>
+                <ID>3</ID>
+                <Titulo>Thor Ragnarok</Titulo>
+                <Ano>2017</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/3</URL>
+            </Filme>
+            <Filme>
+                <ID>4</ID>
+                <Titulo>Guardiões da Galáxia</Titulo>
+                <Ano>2014</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/4</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>5</ID>
+        <Titulo>Batman - The Dark Knight</Titulo>
+        <Ano>2008</Ano>
+        <AvaliacaoIMDB>5</AvaliacaoIMDB>
+        <URL>http://filme.com/5</URL>
+        <Relacionados>
+            <Filme>
+                <ID>6</ID>
+                <Titulo>Homem de Aço</Titulo>
+                <Ano>2013</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/6</URL>
+            </Filme>
+            <Filme>
+                <ID>7</ID>
+                <Titulo>Batman Vs Superman</Titulo>
+                <Ano>2016</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/7</URL>
+            </Filme>
+            <Filme>
+                <ID>8</ID>
+                <Titulo>Mulher Maravilha</Titulo>
+                <Ano>2017</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/8</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>9</ID>
+        <Titulo>Lista de Shindler</Titulo>
+        <Ano>1993</Ano>
+        <AvaliacaoIMDB>4</AvaliacaoIMDB>
+        <URL>http://filme.com/9</URL>
+        <Relacionados>
+            <Filme>
+                <ID>10</ID>
+                <Titulo>O Menino do Pijama Listrado</Titulo>
+                <Ano>2008</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/10</URL>
+            </Filme>
+            <Filme>
+                <ID>11/ID>
+                <Titulo>A Menina que Roubava Livros</Titulo>
+                <Ano>2014</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/11</URL>
+            </Filme>
+            <Filme>
+                <ID>12</ID>
+                <Titulo>A Vida é Bela</Titulo>
+                <Ano>1999</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/12</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>13</ID>
+        <Titulo>O Resgate do Soldado Ryan</Titulo>
+        <Ano>1999</Ano>
+        <AvaliacaoIMDB>5</AvaliacaoIMDB>
+        <URL>http://filme.com/13</URL>
+        <Relacionados>
+            <Filme>
+                <ID>14</ID>
+                <Titulo>Lágrimas do Sol</Titulo>
+                <Ano>2003</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/14</URL>
+            </Filme>
+            <Filme>
+                <ID>15/ID>
+                <Titulo>Até o Último Homem</Titulo>
+                <Ano>2017</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/15</URL>
+            </Filme>
+            <Filme>
+                <ID>16</ID>
+                <Titulo>Corações de Ferro</Titulo>
+                <Ano>2015</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/16</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>17</ID>
+        <Titulo>Interestelar</Titulo>
+        <Ano>2014</Ano>
+        <AvaliacaoIMDB>5</AvaliacaoIMDB>
+        <URL>http://filme.com/17</URL>
+        <Relacionados>
+            <Filme>
+                <ID>18</ID>
+                <Titulo>Valerian e a Cidade dos Mil Planetas</Titulo>
+                <Ano>2017</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/18</URL>
+            </Filme>
+            <Filme>
+                <ID>19</ID>
+                <Titulo>Perdido em Marte</Titulo>
+                <Ano>2015</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/19</URL>
+            </Filme>
+            <Filme>
+                <ID>20</ID>
+                <Titulo>Prometheus</Titulo>
+                <Ano>2012</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/20</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>21</ID>
+        <Titulo>Alien o Oitavo Passageiro</Titulo>
+        <Ano>1979</Ano>
+        <AvaliacaoIMDB>3</AvaliacaoIMDB>
+        <URL>http://filme.com/21</URL>
+        <Relacionados>
+            <Filme>
+                <ID>22</ID>
+                <Titulo>O Predador</Titulo>
+                <Ano>1987</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/22</URL>
+            </Filme>
+            <Filme>
+                <ID>23</ID>
+                <Titulo>O Predador 2 - A Caçada Continua</Titulo>
+                <Ano>1990</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/23</URL>
+            </Filme>
+            <Filme>
+                <ID>24</ID>
+                <Titulo>Alien Vs Predador</Titulo>
+                <Ano>2004</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/24</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>25</ID>
+        <Titulo>Logan</Titulo>
+        <Ano>2017</Ano>
+        <AvaliacaoIMDB>4</AvaliacaoIMDB>
+        <URL>http://filme.com/25</URL>
+        <Relacionados>
+            <Filme>
+                <ID>26</ID>
+                <Titulo>X-Men - Dias de um Futuro Esquecido</Titulo>
+                <Ano>2014</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/26</URL>
+            </Filme>
+            <Filme>
+                <ID>27</ID>
+                <Titulo>X-Men: O Filme</Titulo>
+                <Ano>2000</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/27</URL>
+            </Filme>
+            <Filme>
+                <ID>28</ID>
+                <Titulo>X-Men: Primeira Classe</Titulo>
+                <Ano>2011</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/28</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>29</ID>
+        <Titulo>Star Wars</Titulo>
+        <Ano>1977</Ano>
+        <AvaliacaoIMDB>4</AvaliacaoIMDB>
+        <URL>http://filme.com/29</URL>
+        <Relacionados>
+            <Filme>
+                <ID>30</ID>
+                <Titulo>Star Trek</Titulo>
+                <Ano>2009</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/30</URL>
+            </Filme>
+            <Filme>
+                <ID>31</ID>
+                <Titulo>Star Wars - A Vingança dos Sith</Titulo>
+                <Ano>2005</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/31</URL>
+            </Filme>
+            <Filme>
+                <ID>32</ID>
+                <Titulo>Star Wars - O Império Contra Ataca</Titulo>
+                <Ano>1980</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/32</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>33</ID>
+        <Titulo>O Hobbit - A Desolação de Smaug</Titulo>
+        <Ano>2013</Ano>
+        <AvaliacaoIMDB>5</AvaliacaoIMDB>
+        <URL>http://filme.com/33</URL>
+        <Relacionados>
+            <Filme>
+                <ID>34</ID>
+                <Titulo>O Senhor dos Anéis - A Sociedade do Anel</Titulo>
+                <Ano>2001</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/34</URL>
+            </Filme>
+            <Filme>
+                <ID>35</ID>
+                <Titulo>O Senhor dos Anéis - O Retorno do Rei</Titulo>
+                <Ano>2003</Ano>
+                <AvaliacaoIMDB>5</AvaliacaoIMDB>
+                <URL>http://filme.com/35</URL>
+            </Filme>
+            <Filme>
+                <ID>36</ID>
+                <Titulo>O Hobbit: A Batalha dos Cincos Exércitos</Titulo>
+                <Ano>2014</Ano>
+                <AvaliacaoIMDB>4</AvaliacaoIMDB>
+                <URL>http://filme.com/36</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+    <Filme>
+        <ID>37</ID>
+        <Titulo>Duro de Matar</Titulo>
+        <Ano>1988</Ano>
+        <AvaliacaoIMDB>4</AvaliacaoIMDB>
+        <URL>http://filme.com/37</URL>
+        <Relacionados>
+            <Filme>
+                <ID>38</ID>
+                <Titulo>Duro de Matar 4.0</Titulo>
+                <Ano>2007</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/38</URL>
+            </Filme>
+            <Filme>
+                <ID>39</ID>
+                <Titulo>Carga Explosiva</Titulo>
+                <Ano>2002</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/39</URL>
+            </Filme>
+            <Filme>
+                <ID>40</ID>
+                <Titulo>Rambo IV</Titulo>
+                <Ano>2008</Ano>
+                <AvaliacaoIMDB>3</AvaliacaoIMDB>
+                <URL>http://filme.com/40</URL>
+            </Filme>
+        </Relacionados>
+    </Filme>
+</Filmes>
